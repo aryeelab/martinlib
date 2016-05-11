@@ -1,0 +1,4 @@
+import(AnnotationDbi)
+import(org.Hs.eg.db)
+
+exportPattern("^[[:alpha:]]+")
