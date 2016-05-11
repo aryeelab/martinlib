@@ -6,7 +6,7 @@ Date: 2016-05-11
 Author: Martin Aryee
 Maintainer: Martin Aryee <martin.aryee@gmail.com>
 Description: Miscellaneous useful functions
-Imports: org.Hs.eg.db
+Imports: org.Hs.eg.db, AnnotationDbi
 License: MIT
 LazyData: TRUE
 Suggests: testthat
