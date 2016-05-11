@@ -5,4 +5,5 @@ r:
  - bioc-release
 
 cache: packages
+warnings_are_errors: false
 
